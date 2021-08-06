@@ -5,7 +5,7 @@ lines in it.
 
 #include <stdio.h>
 
-const char *filename = "exercice1.txt"; //filename pointed to
+const char *filename = "exercic1.txt"; //filename pointed to
 
 int main() {
 	char line[100];

@@ -13,7 +13,7 @@ int main() {
 	FILE *readf; //set a pointer
 	FILE *writtenf;//set a pointer
 	
-	fprintf(stderr, "\nChange tab spaces with 8 spaces in a file.\n\n");
+	printf("\nChange tab spaces with 8 spaces in a file.\n");
 	
 	//this file will be read
 	readf = fopen(read_file, "r"); 

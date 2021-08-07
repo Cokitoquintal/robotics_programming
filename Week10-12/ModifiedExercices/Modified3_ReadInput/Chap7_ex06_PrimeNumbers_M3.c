@@ -3,7 +3,7 @@ Exercise 7-5: Write a program to tell if a number is prime.
 */
 #include<stdio.h>  
 
-const char *read_file = "read_file.txt";
+const char *read_file = "NumberToRead.txt";
 //this file will be read in order to get input numbers
 
 int n,i,flag=0;
